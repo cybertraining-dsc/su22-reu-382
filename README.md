@@ -4,7 +4,21 @@ Name: Junyang (Eric) He
 Email: fay5du@virginia.edu
 ```
 
-## What I knew
+## To Do List
+- [x] Review previous research applying deep learning to Hydrology
+- [x] Find hydrology datasets for other nations based on the standards set by CAMELS-US
+- [x] Compare datasets and find the list of common static and dynamic variables
+- [x] Preprocess CAMELS-US, CAMELS-UK, and CAMELS-CL datasets to contain the same set of variables with Pandas
+- [x] Preprocess CAMELS-US, CAMELS-UK, and CAMELS-CL datasets into numpy arrays of the same format suitable for training
+- [ ] Train LSTM model with the three input datasets
+- [ ] Train Science Transformer model with the three input datasets
+- [ ] Train TFT model with the three input datasets
+- [ ] Compare efficiency of the three models
+- [ ] Apply transfer learning
+
+
+
+## What I Knew
 ### Programming Languages:
 - Python
 - JAVA
